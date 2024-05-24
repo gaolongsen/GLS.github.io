@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GLS.github.io/sitemap.xml
+Sitemap: https://gaolongsen.github.io/sitemap.xml
