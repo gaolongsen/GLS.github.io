@@ -9,9 +9,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AgMan Lab</p>
-    <p>Science & Technology Park</p>
-    <p>Albuquerque, NM 87106</p>
+    <p>Cuenca, Ecuador, 2020</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
