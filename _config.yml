@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Me-Longsen # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Longsen
 middle_name:
 last_name: Gao
@@ -601,4 +601,3 @@ jsonresume:
   - languages
   - interests
   - references
-img-fluid z-depth-1 rounded
