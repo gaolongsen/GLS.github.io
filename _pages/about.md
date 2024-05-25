@@ -9,7 +9,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Be with a cute Alpaca in Cuenca, Ecuador :smile: </p>
+    <p>Be with a cute Alpaca in Cuenca, Ecuador</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
