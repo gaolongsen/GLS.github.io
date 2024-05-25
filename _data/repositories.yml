@@ -3,4 +3,5 @@ github_users:
 
 github_repos:
   - gaolongsen/WAM7_UR5e_Control
-  - gaolongsen/mujoco-python-viewer 
+  - gaolongsen/mujoco-python-viewer
+  - gaolongsen/Barrett-Hand 
