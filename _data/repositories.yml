@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gaolongsen
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - gaolongsen/WAM7_UR5e_Control
+  - gaolongsen/mujoco-python-viewer 
