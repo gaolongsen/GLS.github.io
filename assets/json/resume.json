@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Longsen Gao",
-    "label": "Scientist",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://gaolongsen.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lgao1@unm.edu",
+    "phone": "TBD",
+    "url": "https://gaolongsen.github.io",
+    "summary": "PhD Candidate in Electrical and Computer Engineering(Robotics & AI)",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "Gaolongsen",
+        "url": "https://x.com/GaoLongsen"
       }
     ]
   },
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of New Mexico",
+      "location": "Albuquerque, United States",
+      "url": "https://www.unm.edu/",
+      "area": "Robotics and Dynamics Control",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "-",
+      "endDate": "-",
+      "score": "3.97/4.0",
+      "courses": ["Linear Control"]
     }
   ],
   "awards": [
