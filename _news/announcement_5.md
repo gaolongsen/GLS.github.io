@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Join the second annual sponsor meeting to report our SURI project progress in TAMU! Say hello to College Station! Also thanks Prof.Majji! :simle:
+Join the second annual sponsor meeting to report our [SURI](https://www.cmu.edu/news/stories/archives/2022/january/cmu-led-research-team-selected-to-develop-robotics-technology-to-service-satellites-build-structures) project progress in TAMU! Say hello to College Station! Also thanks Prof.Majji! :smile:
+

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join the third annual sponsor meeting to report our SURI project progress in CMU Robotics Institute! Say hello to Pittsburgh! Also thanks Prof.Howie and Dr.Geordan! :simle:
+Join the third annual sponsor meeting to report our [SURI](https://www.cmu.edu/news/stories/archives/2022/january/cmu-led-research-team-selected-to-develop-robotics-technology-to-service-satellites-build-structures) project progress in CMU Robotics Institute! Say hello to Pittsburgh! Also thanks Prof. Howie and Dr.Geordan! :smile:

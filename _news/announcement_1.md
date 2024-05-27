@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Congradulation! My first research proposal related Space robotics manipualtion was funded by OpenAI! :sparkles:
+Congratulation! My first research proposal related Space robotics manipualtion was funded by OpenAI! :sparkles::confetti_ball: ​
+
