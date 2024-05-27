@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I'm glad to take part in [**IROS 2023**](https://ieee-iros.org/). Say hello to Detroit! :smiley: :hand:
+**Oral Presentation at [IROS 2023](https://ieee-iros.org/)** - Delighted to present my space servicing paper in Detroit. Thanks to the IROS committee for their encouragement and backing. Say hello to Detroit! :smiley: :hand:
+
