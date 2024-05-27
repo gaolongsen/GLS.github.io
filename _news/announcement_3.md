@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-06-15 07:59:00-0400
-inline: true
+title: A long announcement with details
+date: 2023-10-01 16:11:00-0400
+inline: false
 related_posts: false
 ---
- Our paper "Autonomous multi-robot servicing for spacecraft operation extension" was accepted by IROS 2023! Congraduation!! :sparkles:
+I'm glad to take part in IROS 2023. Say hello to Detroit!:simle:
