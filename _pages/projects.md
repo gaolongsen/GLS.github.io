@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research&Competition Projects
+title: Projects
 permalink: /projects/
 description: Selected projects showing here.
 nav: true
