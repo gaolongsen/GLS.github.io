@@ -1,35 +1,42 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Space University Research Initiative
+description: UNM, CMU, TAMU, Northrop Grumman
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Space University Research Initiative (SURI) program is sponsored by the Air Force Office of Scientific Research (AFOSR) and the Air Force Research Laboratory (AFRL) Chief Technologist Office and encourages participation between academia, the Air Force Research Laboratory (AFRL) space focused technology directorates, and industry.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+One of AFOSR’s top priorities is to bolster Space Force basic research. The vision is to grow space-related research to meet U.S. Space Force’s mission, strategy, and architectural challenges. In that vein, we are creating new investment strategies and new approaches to make that happen. The SURI is one of many ways we’re achieving that goal.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+SURI was initiated as a pilot to foster engagements between various DOD agencies and the academic community in a developing USSF University Consortium, with the goal of improving the transition of critical concepts from the academic sector into revolutionary new military technologies. The program is intended to support basic and applied research in Space-related science and engineering at U.S. institutions of higher education with potential transition to essential applications of DOD interest. SURI supports multidisciplinary research efforts, ideally creating synergies to speed DoD-relevant research and development.
+
+The three-way partnership envisioned in SURI is designed to play a major role in enhancing DoD-relevant capability in the Space domain, critical in the current environment of near-peer global competitors in the Space arena.
+
+Each SURI award supports high-risk, high-reward ideas pursued by one or several principal investigators (PIs). Each of those PIs, in turn, brings an extended network of diverse post-docs, students, professors, and general STEM-educated citizens that represent the S&T workforce of the future.
+
+AFRL topic chiefs play a critical role in SURI’s success by providing research guidance, encouraging the development of new talent, and supporting the transition of research products into DAF applications.
+
+SURI seeks innovative solutions, not incremental improvements over the current state. SURI pushes the boundaries of S&T to encourage partnerships with AFRL and industry with significant basic research focus.
+
+Eligible applicants are Public and State controlled institutions of higher education and private institutions of higher education.
+SURI is part of the bold high risk high reward transformational basic research efforts enabling AFRL to continue to shape disruptive technologies the U.S. Air Force and U.S. Space Force can lead ahead of our adversaries.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logo/cmu.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/logo/tamu.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/logo/unm.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logo/ng.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,45 +44,25 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/prj_1/afrl_suri.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The Air Force Research Laboratory, via its basic research office, the Air Force Office of Scientific Research, announced December 17, the winners of the newly established Space University Research Initiative (SURI) program – a first step in improving the transition of critical concepts from academia into revolutionary new military technologies for the U.S. Air Force and U.S. Space Force (USSF). <a href= 'https://afresearchlab.com/technology/space-university-research-initiative/' class='headernavlink'>
+Orignal link</a>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="https://github.com/JackTony123/picx-images-hosting/raw/master/new_fig_whole.54xlks4f8x.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="https://github.com/JackTony123/picx-images-hosting/raw/master/mujoco_tpod_fig0_v2.3uuoehr7u1.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Space servicing and repairing task iin Sapce.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
