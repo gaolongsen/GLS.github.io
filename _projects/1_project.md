@@ -2,7 +2,7 @@
 layout: page
 title: Space University Research Initiative
 description: UNM, CMU, TAMU, Northrop Grumman
-img: assets/img/12.jpg
+img: https://github.com/JackTony123/picx-images-hosting/raw/master/W020210716385213055625.9rj8li1cxo.webp
 importance: 1
 category: work
 related_publications: true
@@ -65,4 +65,3 @@ Orignal link</a>
 <div class="caption">
     Space servicing and repairing task iin Sapce.
 </div>
-
