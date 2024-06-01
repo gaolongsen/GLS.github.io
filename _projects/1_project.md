@@ -54,6 +54,7 @@ Orignal link</a>
 
 
 
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="https://github.com/JackTony123/picx-images-hosting/raw/master/new_fig_whole.54xlks4f8x.webp" title="example image" class="img-fluid rounded z-depth-1" %}
