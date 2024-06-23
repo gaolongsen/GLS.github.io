@@ -11,7 +11,7 @@ related_posts: false
 
 This note refers from this [Youtube tutorial](). Some details are a little bit different and I hope this can help you build up and debug your website or blog on your local server(You can also use Git to push your updated file to Github, but this would take a few minutes to see the actual update on your online web):
 
-1.  Open a terminal(ignore the conda environment you already installed, just use the default environment)
+1.  Open a terminal(ignore the **conda** environment you already installed, just use the default environment)
 
     ![image](https://github.com/JackTony123/picx-images-hosting/raw/master/su1.70a6dm7hjz.webp)
 2.  `sudo apt install make build-essential curl git tree -y`
