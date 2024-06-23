@@ -6,6 +6,7 @@ description: How to Install Jekyll Static Website Generator on Ubuntu 20.04
 tags: Jekyll, ubuntu, local-server, website
 categories: sample-posts
 related_posts: false
+giscus_comments: true
 ---
 
 
