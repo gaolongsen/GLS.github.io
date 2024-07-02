@@ -2,10 +2,10 @@
   "basics": {
     "name": "Longsen Gao",
     "label": "PhD Candidate",
-    "image": "",
+    "image": "https://github.com/JackTony123/picx-images-hosting/raw/master/Photo_WhiteB.8vmsffyo5i.webp",
     "email": "lgao1@unm.edu",
-    "phone": "TBD",
-    "url": "https://gaolongsen.github.io",
+    "phone": "Undisclosed",
+    "url": "https://longsengao.com",
     "summary": "PhD Candidate in Electrical and Computer Engineering(Robotics & AI)",
     "location": {
       "address": "2712 Broadway St",
@@ -30,23 +30,36 @@
       "startDate": "-",
       "endDate": "-",
       "summary": "Robotics research work",
-      "highlights": ["Robotics"]
+      "highlights": ["Robotics","Control System","Machine Learning"]
     }
   ],
   "education": [
     {
       "institution": "University of New Mexico",
-      "location": "Albuquerque, United States",
+      "location": "Albuquerque, USA",
       "url": "https://www.unm.edu/",
       "area": "Robotics and Dynamics Control",
       "studyType": "PhD",
       "startDate": "-",
       "endDate": "-",
-      "score": "3.97/4.0",
-      "courses": ["Linear Control"]
+      "score": "3.93/4.0",
+      "courses": ["ECE500: Theory of Linear Systems",
+      "ECE517: Machine Learning",
+      "ECE541: Probability Theory & Stochastic Processes",
+      "ECE514: Nonlinear and Adaptive Control",
+      "MATH501: Advanced Calculus",
+      "ECE517: Machine Learning",
+      "ECE595-1: ST: Autonomous Mobile Robots",
+      "ECE595-2: ST: Deep Reinforcement Learning",
+      "ECE595-3: ST: Advanced Machine Learning",
+      "ECE446: Design of Feedback Control Systems",
+      "ME561-1: ST: Model Predictive Control",
+      "ME561-2: ST: Estimation & Learning-Autonomous Systems",
+      "ME562: ST: Machine Learning-Aerospace",
+      "ME582: Robot Engineering"]
     }
   ],
-  "certificates": [
+/*   "certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -54,28 +67,35 @@
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     }
-  ],
+  ], */
   "publications": [
     {
       "name": "Autonomous multi-robot servicing for spacecraft operation extension",
       "publisher": "IEEE",
-      "releaseDate": "2023-12",
+      "releaseDate": "2023",
       "url": "https://ieeexplore-ieee-org.libproxy.unm.edu/abstract/document/10341875",
-      "summary": "This paper considers the robotic on-orbit servicing of a client satellite. We present an adaptive robotic system to perform two on-orbit tasks: client manipulation and jammed component dislodging (e.g., a solar panel). We use adaptive control due to the uncertainty of the client dynamics and the stiffness of the jammed component. We present two methods for dislodging: a decentralized approach with multiple free-fiying collaborating agents and then transferring the same decentralized approach to a multi-robot arms system. We present simulation studies for these on-orbit servicing tasks. These studies validate the effectiveness of the presented controller despite uncertainty and unmodeled dynamics, such as nonlinear friction."
+      "summary": ""
     },
     {
-      "name": "-",
-      "publisher": "-",
-      "releaseDate": "-",
+      "name": "Experimental Study of Multi-Robot Servicing for Spacecraft Operation Extension",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
       "url": "-",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "summary": ""
     },
     {
-      "name": "-",
-      "publisher": "-",
-      "releaseDate": "-",
+      "name": "Adaptive Robot Detumbling of a Non-Rigid Satellite",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
       "url": "-",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "summary": ""
+    },
+    {
+      "name": "Decentralized Adaptive Aerospace Transportation of Unknown Loads Using A Team of Robots",
+      "publisher": "Springer",
+      "releaseDate": "2024",
+      "url": "-",
+      "summary": ""
     }
   ],
   "skills": [
