@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-06-15 07:59:00-0400
+date: 2023-10-01 16:11:00-0400
 inline: true
 related_posts: false
 ---
- Our paper "[Autonomous multi-robot servicing for spacecraft operation extension](https://ieeexplore.ieee.org/abstract/document/10341875)" was accepted by [IROS 2023](https://ieee-iros.org/)! Congraduation!! :sparkles: :confetti_ball:
+
+**Oral Presentation at [IROS 2023](https://ieee-iros.org/)** - Delighted to present my space servicing paper in Detroit. Thanks to the IROS committee for their encouragement and backing. Say hello to Detroit! :smiley: :hand:
 

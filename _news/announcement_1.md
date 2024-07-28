@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2024-05-20 15:59:00-0400
+date: 2024-07-24 08:53:00-0400
 inline: true
 related_posts: false
 ---
 
-Congratulation! My first **research proposal** related Space robotics manipualtion was funded by [**OpenAI**](https://openai.com/)! ​Many thanks OpenAI support our research work!:sparkles::confetti_ball: ​
+ Our paper "[Adaptive Robot Detumbling of a Non-Rigid Satellite](https://arxiv.org/abs/2407.17617)" was accepted by [CDC 2024](https://cdc2024.ieeecss.org/)! Congratulation!! :sparkles: :confetti_ball:
+
+
 
