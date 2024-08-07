@@ -56,9 +56,14 @@ The website can been seen on your default browser as shown below:
 
 ![image](https://github.com/JackTony123/picx-images-hosting/raw/master/su9.7lju0464w2.webp)
 
+-----------------------UPDATE----------------------------------
 
+Sometimes when you may meet the problem like that:
 
+![](https://github.com/JackTony123/picx-images-hosting/raw/master/prob_server.41xyyfpfsg.webp)
 
+No worry about that, you can just change the input command like this:
 
+`bundle exec jekyll serve --host 0.0.0.0`
 
-
+Then the problem will be dealt with.
