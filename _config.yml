@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: RoboStar # blog_name will be displayed in your blog page
-blog_description: Record my thought and collections
+blog_description: Like A Reference Book for Me
 permalink: /blog/:year/:title/
 
 # Pagination
