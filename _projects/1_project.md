@@ -5,7 +5,7 @@ description: UNM, CMU, TAMU, Northrop Grumman
 img: https://github.com/JackTony123/picx-images-hosting/raw/master/W020210716385213055625.9rj8li1cxo.webp
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 The Space University Research Initiative (SURI) program is sponsored by the Air Force Office of Scientific Research (AFOSR) and the Air Force Research Laboratory (AFRL) Chief Technologist Office and encourages participation between academia, the Air Force Research Laboratory (AFRL) space focused technology directorates, and industry.
@@ -64,5 +64,38 @@ Orignal link</a>
     </div>
 </div>
 <div class="caption">
-    Space servicing and repairing task iin Sapce.
+    Space servicing and repairing task in Sapce.
 </div>
+
+## Selected Works
+
+<div style="display: flex; justify-content: space-between; align-items: center;">  
+  <div style="flex: 1; padding-right: 20px;">    
+    <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/exp1.7w6lrjlcu0.gif" alt="Animated GIF" style="max-width: 100%;">  
+  </div>  
+  <div style="flex: 1; padding-left: 20px;">    
+    <p>       
+      This work presents an adaptive detumbling method for stabilizing non-rigid satellites with uncertain motion dynamics, modeled as a two-link serial chain with unknown stiffness and damping properties. Unlike previous approaches treating satellites as rigid bodies, the proposed method uses two space tugs to handle the satellite's complex dynamics during detumbling. The approach addresses the challenges of unknown mass, inertia, and stiffness, offering a solution for advanced manipulation of non-rigid satellites in space.     
+    </p>  
+  </div>
+</div>
+
+```latex
+@article{gao2024adaptive,
+  title={Adaptive robot detumbling of a non-rigid satellite},
+  author={Gao, Longsen and Danielson, Claus and Fierro, Rafael},
+  journal={arXiv preprint arXiv:2407.17617},
+  year={2024}
+}
+```
+
+<div style="display: flex; justify-content: space-between; align-items: center;">   <div style="flex: 1; padding-right: 20px;">     <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/exp2.6pnaiy0eby.gif" alt="Animated GIF" style="max-width: 100%;">   </div>   <div style="flex: 1; padding-left: 20px;">     <p>       This work presents a decentralized adaptive controller for aerospace robots, enabling them to cooperatively transport unknown objects in varying gravity environments. The controller is validated in both aerial and space scenarios, using hexarotors and space tugs to adaptively transport payloads along desired 3D trajectories, even in the presence of unexpected disturbances, such as the loss of robots.     </p>   </div> </div>
+
+```
+@article{gao2024decentralized,
+  title={Decentralized adaptive aerospace transportation of unknown loads using a team of robots},
+  author={Gao, Longsen and Aubert, Kevin and Saldana, David and Danielson, Claus and Fierro, Rafael},
+  journal={arXiv preprint arXiv:2407.08084},
+  year={2024}
+}
+```

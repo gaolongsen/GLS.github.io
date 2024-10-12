@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Bipedal Robot
+description: Undergraduate National Robotics Competition Project
+img: https://github.com/JackTony123/picx-images-hosting/raw/master/bipedal_robot.4jo38w5wkh.gif
 redirect: https://unsplash.com
 importance: 3
 category: work

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Biomimetic Robot Fish
-description: Undergraduate National Competition Project
-img: https://github.com/JackTony123/picx-images-hosting/raw/master/fishbenke.13ln2ze98z.webp
+description: Undergraduate National Robotics Competition Project
+img: https://github.com/JackTony123/picx-images-hosting/raw/master/fish_demo_undergraduate.4ckvdgb8od.gif
 importance: 2
 category: work
 giscus_comments: true
