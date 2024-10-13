@@ -99,3 +99,15 @@ Orignal link</a>
   year={2024}
 }
 ```
+
+<div style="display: flex; justify-content: space-between; align-items: center;">  
+  <div style="flex: 1; padding-right: 20px;">    
+    <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/20240124/RAL_Exp3.34uu6qy0k3k0.gif" alt="Animated GIF" style="max-width: 100%;">  
+  </div>  
+  <div style="flex: 1; padding-left: 20px;">    
+    <p>       
+      This work presents an experimental stuty of a novel decentralized adaptive control approach implemented on a multi-arm robot system to address the challenges of limited prior knowledge of the manipulated load.     
+    </p>  
+  </div>
+</div>
+
