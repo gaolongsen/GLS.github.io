@@ -53,8 +53,6 @@ Orignal link</a>
 </div>
 
 
-
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="https://github.com/JackTony123/picx-images-hosting/raw/master/new_fig_whole.54xlks4f8x.webp" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -66,6 +64,52 @@ Orignal link</a>
 <div class="caption">
     Space servicing and repairing task in Sapce.
 </div>
+
+
+## Hand-in Experience with Robotics
+
+<div style="display: flex; justify-content: space-between; align-items: center;">  
+  <div style="flex: 1; padding-right: 70px;">    
+    <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/20230425/WAM.71335sjffps0.webp" alt="Animated GIF" style="max-width: 100%;">  
+  </div>  
+  <div style="flex: 1; padding-left: 20px;">    
+    <p style="font-size: 18px;">
+      <strong>Name</strong>: WAM 7 DoF robot arm with Barrett BH 282 Hand<br>
+      <strong>Web</strong>: <a href="https://barrett.com/wam-arm" target="_blank">Barrett</a><br>
+      <strong>Skill</strong>: C++, Python<br>
+      <strong>Simulation Platform Used</strong>: MuJoCo, Simulink, Gazebo <br>
+      <strong>Experience years</strong>: 3 yrs
+    </p>  
+  </div>
+</div>
+
+```none
+
+```
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">  
+  <div style="flex: 1; padding-right: 70px;">    
+    <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/20230425/UR5e.4t9woz4xhoc0.webp" alt="Animated GIF" style="max-width: 100%;">  
+  </div>  
+  <div style="flex: 1; padding-left: 20px;">    
+    <p style="font-size: 18px;">
+      <strong>Name</strong>: UR5e with Robotiq Gripper<br>
+      <strong>Web</strong>: <a href="https://www.universal-robots.com/products/ur5-robot/" target="_blank">Universal Robots</a><br>
+      <strong>Skill</strong>: Python, C++<br>
+      <strong>Simulation Platform Used</strong>: MuJoCo <br>
+      <strong>Experience years</strong>: 2 yrs
+    </p>  
+  </div>
+</div>
+
+
+
+```none
+
+```
 
 ## Selected Works
 
@@ -110,4 +154,3 @@ Orignal link</a>
     </p>  
   </div>
 </div>
-
