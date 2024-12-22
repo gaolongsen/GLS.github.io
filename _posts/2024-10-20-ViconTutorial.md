@@ -13,7 +13,7 @@ giscus_comments: true
 
  <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/vicon.70aeh6yr4g.webp" style="zoom: 25%;" /><img src="https://github.com/JackTony123/picx-images-hosting/raw/master/vicon_real.4g4k4k0l0h.webp" style="zoom: 14%;" />
 
-This turtorial is based on the Vicon 
+This tutorial is based on the [Vicon System](https://www.vicon.com/), which is a state-of-the-art tool widely used in robotics research for precise motion tracking and analysis. With its high-speed cameras and advanced algorithms, Vicon provides accurate 3D position and orientation data of objects and markers in real time. This turtorial is based on our Lab's environmment, software and hardware to give a detailed instruction to help the beginner to learn how to set up all preparation work and use Vicon for your research in quick.
 
-
+**Preparation work:** You should have installed the [Vicon Tracker](https://www.vicon.com/software/tracker/) software with an active license. (We use the Version 3.8 as example based on our lab's version). Also, make sure all the cables connect with your Vicon camera correctly to make sure all Vicon cameras can build up connection through ethernet to your client PC. 
 
