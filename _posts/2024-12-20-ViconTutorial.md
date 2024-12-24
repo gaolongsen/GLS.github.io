@@ -6,7 +6,7 @@ description: This would be like an instruction to help the newer to learn how to
 tags: Vicon System
 categories: sample-posts
 related_posts: false
-giscus_comments: true
+giscus_comments: false
 ---
 
 # **How to set up and use Vicon System within just one day?**
