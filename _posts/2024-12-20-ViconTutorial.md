@@ -17,9 +17,9 @@ This tutorial is based on the [Vicon System](https://www.vicon.com/), which is a
 
 **Preparation work:** You should have installed the [Vicon Tracker](https://www.vicon.com/software/tracker/) software with an active license. (We use the Version 3.8 as example based on our lab's version). Also, make sure all the cables connect with your Vicon camera correctly to make sure all Vicon cameras can build up connection through ethernet to your client PC.
 
-The document can be found through this link: https://docs.google.com/document/d/1OZ0ddXQztCEghgmXmJa1to4vAGpymkuLdKgb8dG8sik/edit?usp=sharing
+The document can be found through this **[Link](https://docs.google.com/document/d/1OZ0ddXQztCEghgmXmJa1to4vAGpymkuLdKgb8dG8sik/edit?usp=sharing)** :point_left:
 
-**Note**: Above link is only available for people in AgMan Lab and Marhes due to there are also other related resource inside the document.
+**Note**: Above link is only available for the members in AgMan Lab and Marhes due to there are also other related resource inside the document.
 
 Well, I think above instructions may be not friendly for the beginners or who never used the Vicon or with limited experience, Here I recorded a tutorial for everyone to support a more detailed instructions to help you understand how to set up both software and hardware step by step. 
 
