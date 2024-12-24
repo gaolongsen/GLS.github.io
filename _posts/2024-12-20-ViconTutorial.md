@@ -23,5 +23,7 @@ The document can be found through this link: https://docs.google.com/document/d/
 
 Well, I think above instructions may be not friendly for the beginners or who never used the Vicon or with limited experience, Here I recorded a tutorial for everyone to support a more detailed instructions to help you understand how to set up both software and hardware step by step. 
 
-<iframe width="852" height="479"   src="https://youtu.be/6ag69epotp0"   title="YouTube video player" frameborder="0"   allowfullscreen> </iframe>
-
+<iframe width="852" height="479"
+  src="https://youtu.be/6ag69epotp0"
+  frameborder="0" allowfullscreen>
+</iframe>
