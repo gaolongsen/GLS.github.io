@@ -23,6 +23,6 @@ The document can be found through this **[Link](https://docs.google.com/document
 
 Well, I think above instructions may be not friendly for the beginners or who never used the Vicon or with limited experience, Here I recorded a tutorial for everyone to support a more detailed instructions to help you understand how to set up both software and hardware step by step. 
 
-**[Video Link](https://youtu.be/B-Nc6rWKKUs)** :point_left:
+**[Video Link](https://youtu.be/EDGTi0poeTM)** :point_left:
 
 I'm very happy to answer any questions you met. Hope this video can help you a lot at least for saving your time to configure your experiment testbed.:blush:
