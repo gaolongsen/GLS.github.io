@@ -77,7 +77,3 @@ plt.ylim((-300, -250))
 
 See details in my video, good luck for your experiment! :stuck_out_tongue::blush:
 
-
-
-<iframe    src="https://docs.google.com/spreadsheets/d/1pvi9h-4Z-0KebBwzybfqEpyN3DT1embmDw8RVWLq4VQ/edit?usp=sharing"   width="800"   height="600"> </iframe>
-
